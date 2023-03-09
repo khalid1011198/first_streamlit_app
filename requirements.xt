@@ -1,2 +1,4 @@
 #requirements.txt
-snowflake-connector-python
+
+snowflake
+snowflake-connector-python==2.7.9
